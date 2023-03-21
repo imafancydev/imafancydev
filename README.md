@@ -4,7 +4,9 @@ Hi 👋 My name is Lucas
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development.
+[communicationis clavis est victoria] (communication is the key to success)
+
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
