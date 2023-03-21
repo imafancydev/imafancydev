@@ -4,10 +4,7 @@ Hi 👋 My name is Lucas
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development.
-<h1>communicationis clavis est victoria</h1> (communication is the key to success)
-
-
+I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, communication is the key to success
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [lucasaugustoleao@gmail.com](mailto:lucasaugustoleao@gmail.com)
