@@ -2,19 +2,17 @@ Hi 👋 My name is Lucas
 ==========================
 
 Front-End Developer
------------------------------
+------------------------------
 
 I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front.
 * ✉️  You can contact me at [lucasaugustoleao@gmail.com](mailto:lucasaugustoleao@gmail.com)
-
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/imafancydev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+------------------------------
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=imafancydev&count_private=true&show_icons=true&theme=onedark)
 
 ### Learning
 <div style="display: inline_block"><br>
-  
+  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   
   </div>
 
