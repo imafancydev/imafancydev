@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas
 Front-End Developer
 ------------------------------
 
-I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front.
+I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end.
 * ✉️  You can contact me at [lucasaugustoleao@gmail.com](mailto:lucasaugustoleao@gmail.com)
 
 ------------------------------
