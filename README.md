@@ -10,7 +10,7 @@ I'm a 19 years old developer. I love to code and figure it out how to solve deep
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/imafancydev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfancydev&count_private=true&show_icons=true&theme=onedark)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=imafancydev&count_private=true&show_icons=true&theme=onedark)
 
 ### Learning
 <div style="display: inline_block"><br>
