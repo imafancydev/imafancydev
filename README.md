@@ -1,16 +1,16 @@
 Hi 👋 My name is Lucas
 ==========================
 
-Full Stack Software Developer
+Front-End Developer
 -----------------------------
 
-I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, communication is the key to success
-
-* 🌍  I'm based in Rio de Janeiro, Brazil
+I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front.
 * ✉️  You can contact me at [lucasaugustoleao@gmail.com](mailto:lucasaugustoleao@gmail.com)
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/imafancydev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfancydev&count_private=true&show_icons=true&theme=onedark)
 
 ### Learning
 <div style="display: inline_block"><br>
