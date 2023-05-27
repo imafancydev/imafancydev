@@ -11,14 +11,11 @@ I'm a 19 years old developer. I love to code and figure it out how to solve deep
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=imafancydev&count_private=true&show_icons=true&theme=onedark)
 
-
 ### Learning
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Lucas-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  
   </div>
-
 ### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
