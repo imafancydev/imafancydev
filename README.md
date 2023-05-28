@@ -1,13 +1,8 @@
-Hi 👋 My name is Lucas
-==========================
-
 Front-End Developer
 ------------------------------
 
 I'm a 19 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front-end.
 * ✉️  You can contact me at [lucasaugustoleao@gmail.com](mailto:lucasaugustoleao@gmail.com)
-
-------------------------------
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=imafancydev&count_private=true&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imafancydev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
